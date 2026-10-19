@@ -1,6 +1,4 @@
-# fih <img src="https://i.imgur.com/cRlqX1u.pngg" align="left" width="100">
-
-<br>
+# fih <img src="https://i.imgur.com/cRlqX1u.pngg" align="left" width="150">
 
 <div align="left">
   fih (if ur reading this im actively editing it rn lol.) <br>(UPDATE: I HATE GITHUB THIS IS JUST TURNING INTO ME RELEARNING HTML AAAALLLLL OVER AGAIN OMFG FML
