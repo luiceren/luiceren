@@ -1,6 +1,6 @@
 # fih
 
-fih (if ur reading this im actively editing it rn lol.) <br>UPDATE: I HATE GITHUB THIS IS JUST TURNING INTO ME RELEARNING HTML AAAALLLLL OVER AGAIN OMFG FML)<br>(update 2: currently in a flow state)
+fih (if ur reading this im actively editing it rn lol.) <br>(UPDATE: I HATE GITHUB THIS IS JUST TURNING INTO ME RELEARNING HTML AAAALLLLL OVER AGAIN OMFG FML)<br>(update 2: currently in a flow state)
 
 <img src="https://i.imgur.com/hPHGCaD.png" align="left" width="450">
 
