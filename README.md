@@ -1,9 +1,11 @@
-# fih <img src="https://i.imgur.com/cRlqX1u.pngg" align="left" width="150">
+# fih (wip!) <img src="https://i.imgur.com/cRlqX1u.pngg" align="left" width="131">
 
 <div align="left">
-  fih (if ur reading this im actively editing it rn lol.) <br>(UPDATE: I HATE GITHUB THIS IS JUST TURNING INTO ME RELEARNING HTML AAAALLLLL OVER AGAIN OMFG FML
-  <br>(update 2: currently in a flow state)
-  <br> (update 3: im so locked in rn.)
+  fih 
+  <h6>(UPDATE: I HATE GITHUB THIS IS JUST TURNING INTO ME RELEARNING HTML AAAALLLLL OVER AGAIN OMFG FML)</h6>
+  <h6>(update 2: currently in a flow state)</h6>
+  <h6>(update 3: im so locked in rn.)</h6>
+  <h6>(update 4: i fin-k this is enough for today lwk)</h6>
 </div>
 
 <img src="https://i.imgur.com/hPHGCaD.png" align="left" width="450">
