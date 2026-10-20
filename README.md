@@ -8,7 +8,7 @@
 <img src="https://i.imgur.com/hPHGCaD.png" align="left" width="450">
 
 <div align="center">
-  <br> <br>
+  <br> <br> <br>
   <img src="https://plasticdino.net/buttons/cat.png" width="70" alt="Cat Button"/> <img src="https://plasticdino.net/buttons/no%20biney.png" width="83" alt="Cat Button"/> <img src="https://plasticdino.net/buttons/cat.png" width="70" alt="Cat Button"/> <img src="https://plasticdino.net/buttons/no%20biney.png" width="83" alt="Cat Button"/> <img src="https://plasticdino.net/buttons/cat.png" width="70" alt="Cat Button"/> <img src="https://plasticdino.net/buttons/no%20biney.png" width="83" alt="Cat Button"/>
 </div>
 
