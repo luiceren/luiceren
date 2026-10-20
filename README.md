@@ -7,6 +7,7 @@
   <h6>(update 2: currently in a flow state)</h6>
   <h6>(update 3: im so locked in rn.)</h6>
   <h6>(update 4: i fin-k this is enough for today lwk)</h6>
+  <h6>(update 5: i lied im continuing to work on ts. im doing reel good tho imo.)</h6>
 </div>
 
 <img src="https://i.imgur.com/hPHGCaD.png" align="left" width="450">
@@ -37,7 +38,7 @@
 
 <details>
   <summary><b>view more</b></summary>
-  <br />
+  <br /> <br>
    <img src="https://plasticdino.net/buttons/cat.png" width="70" alt="Cat Button"/> <img src="https://plasticdino.net/buttons/cat.png" width="70" alt="Cat Button"/> <img src="https://plasticdino.net/buttons/cat.png" width="70" alt="Cat Button"/> <img src="https://plasticdino.net/buttons/cat.png" width="70" alt="Cat Button"/> <img src="https://plasticdino.net/buttons/cat.png" width="70" alt="Cat Button"/>
   <br> 
   <img src="https://i.imgur.com/gmGB6UR.jpeg" width="70" />
@@ -48,7 +49,7 @@
   <br>
   <img src="https://i.imgur.com/GfQJJsp.png" align="right" width="450">
 
-<div align=left">
+<div align="left">
   <br><h3>heading text</h3>
   <p>body text</p> </br>
 </div>
