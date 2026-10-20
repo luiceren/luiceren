@@ -1,4 +1,4 @@
-# fih (wip!) <img src="https://i.imgur.com/cRlqX1u.pngg" align="left" width="140">
+# fih (wip!) <img src="https://i.imgur.com/cRlqX1u.pngg" align="left" width="135">
 <br>
 
 <div align="left">
