@@ -38,20 +38,17 @@
 <details>
   <summary><b>view more</b></summary>
   <br />
+   <img src="https://plasticdino.net/buttons/cat.png" width="70" alt="Cat Button"/> <img src="https://plasticdino.net/buttons/cat.png" width="70" alt="Cat Button"/> <img src="https://plasticdino.net/buttons/cat.png" width="70" alt="Cat Button"/> <img src="https://plasticdino.net/buttons/cat.png" width="70" alt="Cat Button"/> <img src="https://plasticdino.net/buttons/cat.png" width="70" alt="Cat Button"/>
+  <br> 
   <img src="https://i.imgur.com/gmGB6UR.jpeg" width="70" />
   <img src="https://i.imgur.com/qoCpohl.jpeg" width="70" />
   <img src="https://i.imgur.com/ED835dp.jpeg" width="70" />
   <img src="https://i.imgur.com/wlhskoG.jpeg" width="70" />
   <img src="https://i.imgur.com/ZPl2tCp.jpeg" width="70" />
   <br>
-  <img src="https://i.imgur.com/GmafYCf.png" align="right" width="450">
+  <img src="https://i.imgur.com/GfQJJsp.png" align="right" width="450">
 
-<div align="center">
-  <br>
-  <img src="https://plasticdino.net/buttons/cat.png" width="70" alt="Cat Button"/>
-</div>
-
-<div align="center">
+<div align=left">
   <br><h3>heading text</h3>
   <p>body text</p> </br>
 </div>
