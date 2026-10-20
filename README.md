@@ -22,7 +22,6 @@
 <br> <br> links or sumn idk yet (editing rest later)
 
 <br clear="all">
-<br>
 
 <div align="center">
   <br><br> <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fluiceren">
