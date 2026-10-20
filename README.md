@@ -35,7 +35,7 @@
 <br clear="all">
 <br>
 
-<details align="center">
+<details>
   <summary><b>view more</b></summary>
   <br />
   <img src="https://i.imgur.com/gmGB6UR.jpeg" width="70" />
@@ -48,7 +48,7 @@
 
 <div align="center">
   <br>
-  <img src="https://plasticdino.net/buttons/cat.png" width="70" alt="Cat Button"/> <img src="https://plasticdino.net/buttons/no%20biney.png" width="83" alt="Cat Button"/> <img src="https://plasticdino.net/buttons/cat.png" width="70" alt="Cat Button"/> <img src="https://plasticdino.net/buttons/no%20biney.png" width="83" alt="Cat Button"/> <img src="https://plasticdino.net/buttons/cat.png" width="70" alt="Cat Button"/> <img src="https://plasticdino.net/buttons/no%20biney.png" width="83" alt="Cat Button"/>
+  <img src="https://plasticdino.net/buttons/cat.png" width="70" alt="Cat Button"/>
 </div>
 
 <div align="center">
