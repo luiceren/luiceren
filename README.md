@@ -18,6 +18,8 @@
  <p><strong>DNI: TRASH (transphobe, racist, ableist, sexist, homophobic),</strong> other basic dni stuff, sensitive mfs, <strong>COALCAROLYNNE (please get the fuck off pony town for like a week and go touch grass. there are better things in life then constantly arguing with ppl on there. go out for some lunch with your irls or something.)</strong>, js don’t be creepy please</p>
 </div>
 
+<br>
+
 <div align="right">
   <div align="center">
  <p><a href="https://ladyvenus.atabook.org" >atabook</a> + <a href="https://firebloom.carrd.co" >carrd</a></p> <h6>(both have white bgs so #watch out 💔)</h6>
