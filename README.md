@@ -2,24 +2,26 @@
 <br>
 
 <div align="left">
- <p>fih</p>
+ <p><h6>hi my page is still a wip as im workin on it erday. if u have anything cool that i should add to my readme pls pls pls send it to my ata (example: the spotify and visitor counter things i have rn.) ok bye mwah</h6></p>
 </div>
 
 <img src="https://i.imgur.com/hPHGCaD.png" align="left" width="450">
 
 <div align="center">
-  <br> <br> <br>
+  <br><br><br>
   <img src="https://plasticdino.net/buttons/cat.png" width="70" alt="Cat Button"/> <img src="https://plasticdino.net/buttons/no%20biney.png" width="83" alt="Cat Button"/> <img src="https://plasticdino.net/buttons/cat.png" width="70" alt="Cat Button"/> <img src="https://plasticdino.net/buttons/no%20biney.png" width="83" alt="Cat Button"/> <img src="https://plasticdino.net/buttons/cat.png" width="70" alt="Cat Button"/> <img src="https://plasticdino.net/buttons/no%20biney.png" width="83" alt="Cat Button"/>
 </div>
 
 <div align="center">
-  <br><h3>filler (editing later)</h3>
-  <p><strong>DNI: trash (transphobe, racist, ableist, sexist, homophobic),</strong> other basic dni stuff, sensitive mfs, js don’t be creepy please</p>i don't kin or yumeship with finn, i just shrimp-ly find him fin-tastic ^o^</p>
+  <h3>filler (editing later)</h3>
+ <p>c+h+k is okay and is infact encouraged! i love to int w ppl,,, just please only c+h if i have on my irl skin or if i have on a char who's a minor. js don't act weird, thx!</p>
+  <p>i don't kin or yumeship with finn, i just shrimp-ly find him fin-tastic ^o^</p>
+ <p><h3><strong>DNI: TRASH (transphobe, racist, ableist, sexist, homophobic),</strong> other basic dni stuff, sensitive mfs, js don’t be creepy please</h3></p>
 </div>
 
 <div align="right">
   <div align="center">
- <p>links or sumn idk yet (editing rest later)</p>
+ <br><p><a href="https://ladyvenus.atabook.org" >atabook</a> + <a href="https://firebloom.carrd.co" >carrd</a></p> <h6>(both have white bgs so #watch out 💔)</h6>
 
 <br clear="all">
 
@@ -59,7 +61,7 @@
 <div align="left">
   <br><h3>extra!</h3>
   <p><strong>even tho i can ship finn w basically anyone, here are my favorite finn ships:</strong> ragebait, tideclock/fishingtime, waxbowl, seafood (sprout x finn x cosmo x shrimpo, i also ship every toon separately here!), finn x connie (idk the name??), finn x gigi, seashell, clickbait (finn x vee), and shrimpfishpop! </p>
- <p><strong>other ships i like:</strong> fruitcake, fruitpunch, sprout x goob x cosmo (they all make sweet treats for goob to try), waxberry, and gigi x waxwell</p>
+ <p><strong>other ships i like:</strong> fruitcake, fruitpunch, sprout x goob x cosmo (they all make sweet treats for goob to try), waxberry, and gigi x waxwell (for more click <a href="https://github.com/luiceren/fih" >here</a></p>
   <p>regardless, feel free to c+h+k with my finn or talk to me about ships :3</p> 
 </div>
 <br clear="all">
