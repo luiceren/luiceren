@@ -14,12 +14,12 @@
 
 <div align="center">
   <br><h3>filler (editing later)</h3>
-  <p><strong>DNI: trash (transphobe, racist, ableist, sexist, homophobic),</strong> other basic dni stuff, sensitive mfs, js don’t be creepy please</p></br>i don't kin or yumeship with finn, i just shrimp-ly find him fin-tastic ^o^ 
+  <p><strong>DNI: trash (transphobe, racist, ableist, sexist, homophobic),</strong> other basic dni stuff, sensitive mfs, js don’t be creepy please</p>i don't kin or yumeship with finn, i just shrimp-ly find him fin-tastic ^o^</p>
 </div>
 
 <div align="right">
   <div align="center">
-<br> <br> links or sumn idk yet (editing rest later)
+ <p>links or sumn idk yet (editing rest later)</p>
 
 <br clear="all">
 
