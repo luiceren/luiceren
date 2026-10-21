@@ -13,14 +13,14 @@
 </div>
 
 <div align="center">
- <p>c+h+k is okay and is infact encouraged! i love to int w ppl,,, just please only c+h if i have on my irl skin or if i have on a char who's a minor. js don't act weird, thx!</p>
+ <br><p>c+h+k is okay and is infact encouraged! i love to int w ppl,,, just please only c+h if i have on my irl skin or if i have on a char who's a minor. js don't act weird, thx!</p>
   <p>i don't kin or yumeship with finn, i just shrimp-ly find him fin-tastic ^o^</p>
  <p><h3><strong>DNI: TRASH (transphobe, racist, ableist, sexist, homophobic),</strong> other basic dni stuff, sensitive mfs, js don’t be creepy please</h3></p>
 </div>
 
 <div align="right">
   <div align="center">
- <br><p><a href="https://ladyvenus.atabook.org" >atabook</a> + <a href="https://firebloom.carrd.co" >carrd</a></p> <h6>(both have white bgs so #watch out 💔)</h6>
+ <p><a href="https://ladyvenus.atabook.org" >atabook</a> + <a href="https://firebloom.carrd.co" >carrd</a></p> <h6>(both have white bgs so #watch out 💔)</h6>
 
 <br clear="all">
 
