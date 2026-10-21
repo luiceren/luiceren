@@ -15,7 +15,7 @@
 <div align="center">
  <br><p>c+h+k is okay and is infact encouraged! i love to int w ppl,,, just please only c+h if i have on my irl skin or if i have on a char who's a minor. js don't act weird, thx!</p>
   <p>i don't kin or yumeship with finn, i just shrimp-ly find him fin-tastic ^o^</p>
- <p><strong>DNI: TRASH (transphobe, racist, ableist, sexist, homophobic),</strong> other basic dni stuff, sensitive mfs, <strong>COALCAROLYNNE (please get the fuck off pony town for like a week and go touch grass. there are better things to life then constantly arguing with ppl on there, go out for some lunch or smth.)</strong>, js don’t be creepy please</p>
+ <p><strong>DNI: TRASH (transphobe, racist, ableist, sexist, homophobic),</strong> other basic dni stuff, sensitive mfs, <strong>COALCAROLYNNE (please get the fuck off pony town for like a week and go touch grass. there are better things in life then constantly arguing with ppl on there. go out for some lunch with your irls or something.)</strong>, js don’t be creepy please</p>
 </div>
 
 <div align="right">
