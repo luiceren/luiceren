@@ -13,7 +13,6 @@
 </div>
 
 <div align="center">
-  <h3>filler (editing later)</h3>
  <p>c+h+k is okay and is infact encouraged! i love to int w ppl,,, just please only c+h if i have on my irl skin or if i have on a char who's a minor. js don't act weird, thx!</p>
   <p>i don't kin or yumeship with finn, i just shrimp-ly find him fin-tastic ^o^</p>
  <p><h3><strong>DNI: TRASH (transphobe, racist, ableist, sexist, homophobic),</strong> other basic dni stuff, sensitive mfs, js don’t be creepy please</h3></p>
