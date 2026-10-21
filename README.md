@@ -2,7 +2,7 @@
 <br>
 
 <div align="left">
- <p><h6>hi my page is still a wip as im workin on it erday. if u have anything cool that i should add to my readme pls pls pls send it to my ata (example: the spotify and visitor counter things i have rn.) ok bye mwah</h6></p>
+ <br><p><h6>hi my page is still a wip as im workin on it erday. if u have anything cool that i should add to my readme pls pls pls send it to my ata (example: the spotify and visitor counter things i have rn.) ok bye mwah</h6></p>
 </div>
 
 <img src="https://i.imgur.com/hPHGCaD.png" align="left" width="450">
