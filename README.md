@@ -73,4 +73,3 @@ adopt one yourself! @<a href="https://www.pokemon-adoption.de">pok&eacute;mon or
   <p>regardless, feel free to c+h+k with my finn or talk to me about ships :3</p> 
 </div>
 <br clear="all">
-
