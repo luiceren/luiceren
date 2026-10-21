@@ -29,6 +29,15 @@
 <b></b>`· . ELI
 </div>
 
+<br>
+
+<div class="center">
+<a href="https://www.pokemon-adoption.de">
+<img src="https://github.com/user-attachments/assets/35aa740f-a473-4368-ae2f-dc8faf51b73e" style=";" alt="luz" /></a><br />
+<b>name:</b> luz<br />
+adopt one yourself! @<a href="https://www.pokemon-adoption.de">pok&eacute;mon orphanage</a>
+</div>
+
 <div align="center">
   <br> <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fluiceren">
     <img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fluiceren&label=today's%20visitors%20%E2%80%A7%CB%9A%EA%92%B0%E1%AF%93%E2%98%85%E0%AD%AD%20%CB%9A.%20%E1%B5%8E%E1%B5%8E&labelColor=%23ceedfe&countColor=%23f4faff" width="212"/></a>
@@ -37,13 +46,6 @@
 </div>
 
 <br>
-
-<div class="center">
-<a href="https://www.pokemon-adoption.de">
-<img src="https://www.yatta-tempel.de/animierte/jirachi.gif" style=";" alt="luz" /></a><br />
-<b>Name:</b> luz<br />
-Adopt one yourself! @<a href="https://www.pokemon-adoption.de">Pok&eacute;mon Orphanage</a>
-</div>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -71,3 +73,4 @@ Adopt one yourself! @<a href="https://www.pokemon-adoption.de">Pok&eacute;mon Or
   <p>regardless, feel free to c+h+k with my finn or talk to me about ships :3</p> 
 </div>
 <br clear="all">
+
