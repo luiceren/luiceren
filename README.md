@@ -57,7 +57,9 @@
   <img src="https://i.imgur.com/GfQJJsp.png" align="right" width="450">
 
 <div align="left">
-  <br><h3>heading text</h3>
-  <p>body text</p> </br>
+  <br><h3>extra!</h3>
+  <p><strong>even tho i can ship finn w basically anyone, here are my favorite finn ships:</strong> ragebait, tideclock/fishingtime, waxbowl, seafood (sprout x finn x cosmo x shrimpo, i also ship every toon separately here!), finn x connie (idk the name??), finn x gigi, seashell, clickbait (finn x vee), and shrimpfishpop! </p>
+ <p><strong>other ships i like:</strong> fruitcake, fruitpunch, sprout x goob x cosmo (they all make sweet treats for goob to try), waxberry, and gigi x waxwell</p>
+  <p>regardless, feel free to c+h+k with my finn or talk to me about ships :3</p> 
 </div>
 <br clear="all">
